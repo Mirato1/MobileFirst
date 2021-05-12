@@ -1,0 +1,63 @@
+body{
+    overflow-x: hidden;
+}
+
+/* MAIN TABLES */
+.main__tables-container{
+    display: flex;
+    width: 930px;
+    margin: 0 auto;    
+}
+
+.main__currency-table {
+    width: auto;
+    position: relative;
+    visibility: visible;
+}
+
+.main__currency-table--container .container-arrow-r{
+    display: none;
+}
+
+.main__currency-table--container .container-arrow-l{
+    display: none;
+}
+
+/* IMAGEN BITCOIN*/
+.bitcoin__img-container {
+    background: url('../assets/img/bitcoinbaby2x.jpg');
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    text-align: center;
+}
+
+/* CARTAS */
+.product__cards-container{
+    display: flex;
+    flex-wrap: wrap;
+    width: 930px;
+    margin: 0 auto;
+}
+
+.plans__container--slider{
+    justify-content: center;
+}
+
+.plans__container--slider{
+    overflow-x: hidden;
+}
+
+/* FOOTER */
+footer li {
+    margin-left: 20px;
+}
+
+footer ul li i {
+    font-size: 3.4rem;
+}
+
+footer img{
+    height: 8rem;
+}
