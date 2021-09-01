@@ -1,4 +1,5 @@
 # MobileFirst
- Página usando método Mobile First
+ Página utilizando la metodología *Mobile First* 
  
- https://mirato1.github.io/MobileFirst/
+ [Sitio Web](https://mirato1.github.io/MobileFirst/)
+ 
